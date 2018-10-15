@@ -28,6 +28,8 @@ nav::after{
     height: 2px;
     width: 30px;
     background-color: black;
+
+    transition: all ease-in-out 100ms;
 }
 
 .container{
